@@ -1,1 +1,3 @@
-# Decision-Tree-Classifier
+# Decision-Tree-Classifier for predicting High Value Townships
+
+This repository contains a master's degree assignment analyzing the use of decision trees to predict if townships in the Eastern United States have high-valued properties. The data includes around 500 townships, using the target variable high_value (1 if high value, 0 otherwise) and predictor variables such as large_lots (percentage of large residential lots), industrial_land (percentage of land zoned for industrial use), river_side (1 if close to a river, 0 otherwise), mean_rooms (average number of rooms per residential property), and pupil_teacher_ratio (number of students per teacher). The project involves splitting the data into training and test sets, training a decision tree classifier, and visualizing the results using matplotlib.
